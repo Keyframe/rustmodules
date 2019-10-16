@@ -8,7 +8,7 @@ edition = "2018"
 
 [[bin]]
 name = "testor"
-path = "src/bin/main.rs"
+path = "src/bin/testor/main.rs"
 
 [features]
 default = ["linux"]
